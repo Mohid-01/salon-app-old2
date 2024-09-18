@@ -1,0 +1,1 @@
+web gunicorn afro_salon_backend.wsgi:application --log-file -
